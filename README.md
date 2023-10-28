@@ -1,6 +1,6 @@
 # Setting up the environment
-1. Clone the repository: `git clone [repository_url]`
-2. Navigate to the project directory: `cd [project_name]`
+1. Clone the repository: `git clone git@github.com:aparnak799/TimeLockAR.git`
+2. Navigate to the project directory: `cd TimeLockAR`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
    - On Windows: `.\venv\Scripts\Activate`
