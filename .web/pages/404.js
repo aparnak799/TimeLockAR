@@ -12,7 +12,7 @@ import NextHead from "next/head"
 
 
 export default function Component() {
-  const state = useContext(StateContext)
+  const form_state = useContext(StateContext)
   const router = useRouter()
   const [ colorMode, toggleColorMode ] = useContext(ColorModeContext)
   const focusRef = useRef();
